@@ -1,5 +1,5 @@
 #EAD-2-Assigment-2
  Application to handle Login and Registration forms using Java Servlets.
-![](screenshot.png)
+![](src/main/resources/screenshot.png)
 
-![](screenshot2.png)
+![](src/main/resources/screenshot2.png)
